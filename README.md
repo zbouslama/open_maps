@@ -1,6 +1,6 @@
 # open_maps
 ### project description
-All over the world, biologists draw full benefit from their raw data by performing data analysis especially creating maps.
+Scientists draw full benefit from their raw data by performing complex data analysis. Creating maps is an essential component to associate meaningful interpretation to data.
 Biology research groups in low income countries suffer from budget restrictions due to several economical and political issues. They are facing difficulties to purchase licenses for non academic GIS (Geographic Information Systems) software and lack financial support to benefit from trainings abroad. 
 Non free as well as free GIS softwares are already available offering a large sets of options. However, multiple training sessions are required to master these tools.
 ###
