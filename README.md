@@ -6,5 +6,6 @@ Open license GIS softwares are available and offer a large set of options. Howev
 ###
 The aim of this project, is to offer an open, user friendly alternative to these tools and will be accessible to GIS and non GIS users and its use won't require any programming experience. It will allow the targeted users to spend more time on curating and analyzing their data rather than setting up complex environments, fetching appropriate map format, converting their data accordingly and debugging.   
 
-Open maps will offer interactive visualization of scientific data projected on 2D maps. The application will be developped based on the use of open packages such as Python libraries. Users will be able to upload their raw data files containing spatio-temporal measurements, explore them interactively and generate graphics and reports on a “what you see is what you get” basics. 
+Open maps will offer interactive visualization of scientific data projected on 2D maps. It will be developped based on the use of open packages such as Python libraries.
+Users will be able to upload their raw data files containing spatio-temporal measurements, explore them interactively and generate graphics and reports on a “what you see is what you get” basics. 
 
