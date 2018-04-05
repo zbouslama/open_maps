@@ -1,4 +1,4 @@
-# open_maps
+# open maps
 ### project description
 Scientists draw full benefit from their raw data by performing complex data analysis. Creating maps is an essential component to associate meaningful interpretation to data.
 Research groups in low income countries suffer from budget restrictions due to several economical and political issues and can't afford purchasing licenses for non academic GIS (Geographic Information Systems) software neither following specific GIS softaware trainings.  
