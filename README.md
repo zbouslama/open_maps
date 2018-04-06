@@ -9,3 +9,28 @@ The aim of this project, is to offer an open, user friendly alternative to these
 Open maps will offer interactive visualization of scientific data projected on 2D maps. It will be developped based on the use of open packages such as Python libraries.
 Users will be able to upload their raw data files containing spatio-temporal measurements, explore them interactively and generate graphics and reports on a “what you see is what you get” basics. 
 
+### Important concepts
+#### Simplicity
+We embrace simplicity at all the levels of the project. This implies at first that the users will be able to make use of the application via a web server without the need to install it on their machines. A very comprehensive example, explaining how to implement a web server with python can be found [here](https://ruslanspivak.com/lsbaws-part1/) 
+
+#### Interactivity
+Geographical data are better handled using exploratory tools to discover new spatial-temporal patterns. More often, exploratory analysis is interactive. There are several python packages which could be used to generate interactive maps (see examples [here](https://plot.ly/python/ipython-notebook-tutorial/) and [here](https://blog.modeanalytics.com/python-interactive-plot-libraries/)). Interactive maps can be easily [web implemented](http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/). 
+
+#### Usage of the application
+We want the users to achieve their desired analysis quickly with very simple steps:
+    1- select the map.
+    2- upload the data.
+    3- run the analysis. 
+    4- Explore the output.  
+    5- download the reports. 
+
+#### Why Python ?
+Python by itself is a general purpose open source programming language. It is very easy to learn and is backed by a highly active community. Recently it becomes one of the most important tools among data scientists offering a lots of packages to manage data ([pandas](https://pandas.pydata.org/)),  run numerical analysis ([numpy](http://www.numpy.org/)) and predictive models ([scikit-learn](http://scikit-learn.org/stable/)), generate graphs and plots ([matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/)) and to interact with the code and the data ([ipython](https://ipython.org/) and [jupyter](http://jupyter.org/)).
+
+
+
+
+
+
+
+
