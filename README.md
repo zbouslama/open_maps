@@ -28,7 +28,7 @@ We want the users to achieve their desired analysis quickly with very simple ste
 Python by itself is a general purpose open source programming language. It is very easy to learn and is backed by a highly active community. Recently it becomes one of the most important tools among data scientists offering a lots of packages to manage data ([pandas](https://pandas.pydata.org/)),  run numerical analysis ([numpy](http://www.numpy.org/)) and predictive models ([scikit-learn](http://scikit-learn.org/stable/)), generate graphs and plots ([matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/)) and to interact with the code and the data ([ipython](https://ipython.org/) and [jupyter](http://jupyter.org/)).
 
 
-
+just trying git
 
 
 
