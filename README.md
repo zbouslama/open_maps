@@ -42,7 +42,7 @@ where PACKAGE:
   * [Geoviews](http://geo.holoviews.org/#), a python library that includes interactive geospacial tools. 
   
 # PROGRESS
-We started implementing source codes for our project
-GIS Package used : Bokeh (https://bokeh.pydata.org/en/latest/)
-We created HTML page that includes our programme via FLASK package on Python
+We started implementing source codes for our project.
+GIS Package used : Bokeh (https://bokeh.pydata.org/en/latest/).
+We created HTML page that includes our programme via FLASK package on Python.
 
