@@ -40,3 +40,10 @@ where PACKAGE:
   * [Bokeh](https://bokeh.pydata.org/en/latest/), To make interactive plots in web browsers.
   * [HoloViews](https://bokeh.pydata.org/en/latest/), For simpler handling of interactive plots (built on top of Bokeh).
   * [Geoviews](http://geo.holoviews.org/#), a python library that includes interactive geospacial tools. 
+  
+ 
+# PROGRESS
+We started implementing source codes for our project
+GIS Package used : Bokeh (https://bokeh.pydata.org/en/latest/)
+We created HTML page that includes our programme via FLASK package on Python
+
