@@ -1,4 +1,0 @@
-# Photo for the application (to be upgraded by Houcem):
-
-![alt text](https://raw.githubusercontent.com/zbouslama/open_maps/master/open%20maps%202.jpg)
-
