@@ -43,6 +43,11 @@ where PACKAGE:
   
 # PROGRESS
 We started implementing source codes for our project.
-GIS Package used : Bokeh (https://bokeh.pydata.org/en/latest/).
+GIS Package used : FOLIUM.
 We created HTML page that includes our programme via FLASK package on Python.
+We were able to create a page that uploads a CSV file.
+we created a script that allows to plot dots on a map. Lat long coordinates uploaded from a CSV file. Layer map generated from openstreetmaps.
+Now, we would like to link the two scripts so that everything will be done via online web app.
+
+
 
