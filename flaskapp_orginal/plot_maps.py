@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd 
 from scipy.spatial import distance
 
-data=pd.read_csv("/home/houcemeddine/Desktop/test_geo_1.csv", sep=';', header=None)
+data=pd.read_csv("./data/data.csv", sep=';', header=None)
 
 maxLon=np.max( data[3] )
 minLon=np.min ( data[3] )
@@ -38,4 +38,6 @@ def plot_point(longitude, latitude):
         fcirc.add_to(m)
     return m
         
-m=plot_point(data[3], data[4])
+def executeData():
+    m=plot_point(data[3], data[4])
+    m.save('./templates/maps.html')
